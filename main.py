@@ -6,7 +6,6 @@ import shutil
 from PIL import Image
 from maze import Maze
 
-# Define directories to be cleared
 directories_to_clear = ['nhl/', 'tmp/']
 
 for directory in directories_to_clear:
