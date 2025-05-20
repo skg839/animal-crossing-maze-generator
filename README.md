@@ -6,9 +6,9 @@ This Python project automatically generates a full maze-based map layout for **A
 
 ![maze](https://github.com/user-attachments/assets/0c8228e6-a49d-4af1-af2b-6ef37ae9ce3e)
 
-https://github.com/user-attachments/assets/e6f747fb-bb84-41fa-97f1-cf5b8ba7f3dc
+https://github.com/user-attachments/assets/91d77037-3a86-471d-a3ca-90ff47fe033f
 
-https://github.com/user-attachments/assets/54b032bb-ada7-4590-9256-2ff0092e2410
+https://github.com/user-attachments/assets/ab659c87-348f-4b13-81ac-b47c37f974db
 
 # Features
 
