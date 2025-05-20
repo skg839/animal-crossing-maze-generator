@@ -1,10 +1,14 @@
+
+
 # Animal Crossing: New Horizons Maze Generator
 
 This Python project automatically generates a full maze-based map layout for **Animal Crossing: New Horizons**. It outputs `.nhl` acre files that can be imported into your save using NHSE (https://github.com/kwsch/NHSE).
 
 ![maze](https://github.com/user-attachments/assets/0c8228e6-a49d-4af1-af2b-6ef37ae9ce3e)
 
-https://github.com/user-attachments/assets/87ca764a-cbd0-440c-87b8-65c9aed2bc96
+https://github.com/user-attachments/assets/e6f747fb-bb84-41fa-97f1-cf5b8ba7f3dc
+
+https://github.com/user-attachments/assets/54b032bb-ada7-4590-9256-2ff0092e2410
 
 # Features
 
